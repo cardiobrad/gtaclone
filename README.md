@@ -2,7 +2,7 @@
 
 Top-down 3D sandbox in the browser, inspired by GTA 2. Built from scratch to be **highly customizable**: swappable 3D assets with per-asset transform editing, custom PNG map textures, live vehicle handling tweaks, and Tiled map import. Everything is data-driven.
 
-**[Live demo](#)** — add your Netlify URL after deploy.
+**[Live demo](#)** — soon.
 
 ## Quick start
 
