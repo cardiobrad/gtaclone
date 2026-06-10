@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  user-select: none;
+}
+
+input[type="range"] {
+  accent-color: #facc15;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #14141c;
+}
+::-webkit-scrollbar-thumb {
+  background: #3a3a4a;
+  border-radius: 5px;
+}
+
+/* Vignette atmosférico sutil, siempre presente durante la partida */
+.ambient-vignette {
+  background: radial-gradient(ellipse at center, transparent 60%, rgba(8, 10, 18, 0.38) 100%);
+}
+
+/* Vignette roja al recibir daño (se remonta con key para reiniciar la animación) */
+.damage-flash {
+  background: radial-gradient(ellipse at center, transparent 52%, rgba(220, 38, 38, 0.5) 100%);
+  animation: damage-fade 0.55s ease-out forwards;
+}
+@keyframes damage-fade {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+/* Nombre del vehículo al subirse: aparece abajo y se desvanece */
+.vehicle-enter-banner {
+  animation: vehicle-enter-banner 3.4s ease forwards;
+}
+@keyframes vehicle-enter-banner {
+  0% { opacity: 0; transform: translateY(12px); }
+  10% { opacity: 1; transform: translateY(0); }
+  72% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-10px); }
+}

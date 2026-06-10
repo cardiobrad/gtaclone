@@ -1,0 +1,11 @@
+[
+  { "id": "road", "char": "R", "name": "Road", "color": "#3a3a42", "walkable": true, "drivable": true, "elevation": 0 },
+  { "id": "crosswalk", "char": "X", "name": "Crosswalk", "color": "#3a3a42", "walkable": true, "drivable": true, "elevation": 0.01 },
+  { "id": "sidewalk", "char": "S", "name": "Sidewalk", "color": "#9a9aa0", "walkable": true, "elevation": 0.08 },
+  { "id": "grass", "char": "G", "name": "Grass", "color": "#4a7c3f", "walkable": true, "elevation": 0.05 },
+  { "id": "plaza", "char": "P", "name": "Plaza", "color": "#8a8278", "walkable": true, "elevation": 0.06 },
+  { "id": "building", "char": "B", "name": "Building", "color": "#6b5b4f", "blocked": true, "building": true, "elevation": 0 },
+  { "id": "shop", "char": "C", "name": "Shop", "color": "#7a5a3f", "blocked": true, "building": true, "elevation": 0 },
+  { "id": "garage", "char": "T", "name": "Spray shop", "color": "#2e8f6e", "walkable": true, "drivable": true, "elevation": 0.02 },
+  { "id": "water", "char": "W", "name": "Water", "color": "#2b5d8a", "blocked": true, "elevation": -0.15 }
+]

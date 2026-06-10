@@ -1,0 +1,23 @@
+# Dependencies & build
+node_modules/
+dist/
+dist-ssr/
+
+# Local env & secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# Tooling caches
+*.local
+tsconfig.tsbuildinfo
+.vite/
+.cache/
+
+# OS & editors
+.DS_Store
+Thumbs.db
+*.log
+
+# Netlify local state
+.netlify/

@@ -1,0 +1,4095 @@
+{
+  "playerStart": {
+    "tx": 79,
+    "tz": 89,
+    "rotY": 3.141592653589793
+  },
+  "placements": [
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 4,
+      "tz": 6,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 4,
+      "tz": 17,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "muscle",
+      "vehicle": "muscle",
+      "tx": 4,
+      "tz": 27,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "van",
+      "vehicle": "van",
+      "tx": 4,
+      "tz": 43,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sport",
+      "vehicle": "sport",
+      "tx": 4,
+      "tz": 54,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "pickup",
+      "vehicle": "pickup",
+      "tx": 4,
+      "tz": 63,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 4,
+      "tz": 81,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 4,
+      "tz": 92,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 4,
+      "tz": 103,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 4,
+      "tz": 121,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "muscle",
+      "vehicle": "muscle",
+      "tx": 4,
+      "tz": 152,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "van",
+      "vehicle": "van",
+      "tx": 32,
+      "tz": 17,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sport",
+      "vehicle": "sport",
+      "tx": 32,
+      "tz": 25,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "pickup",
+      "vehicle": "pickup",
+      "tx": 32,
+      "tz": 36,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 32,
+      "tz": 55,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 32,
+      "tz": 84,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 32,
+      "tz": 113,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 32,
+      "tz": 140,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "muscle",
+      "vehicle": "muscle",
+      "tx": 32,
+      "tz": 151,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "van",
+      "vehicle": "van",
+      "tx": 58,
+      "tz": 6,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sport",
+      "vehicle": "sport",
+      "tx": 58,
+      "tz": 17,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "pickup",
+      "vehicle": "pickup",
+      "tx": 58,
+      "tz": 47,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 58,
+      "tz": 66,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 58,
+      "tz": 73,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 58,
+      "tz": 83,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 58,
+      "tz": 91,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "muscle",
+      "vehicle": "muscle",
+      "tx": 58,
+      "tz": 101,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "van",
+      "vehicle": "van",
+      "tx": 58,
+      "tz": 116,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sport",
+      "vehicle": "sport",
+      "tx": 58,
+      "tz": 142,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "pickup",
+      "vehicle": "pickup",
+      "tx": 58,
+      "tz": 151,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 80,
+      "tz": 24,
+      "rotY": 0
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 80,
+      "tz": 31,
+      "rotY": 0
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 80,
+      "tz": 38,
+      "rotY": 0
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 80,
+      "tz": 56,
+      "rotY": 0
+    },
+    {
+      "asset": "muscle",
+      "vehicle": "muscle",
+      "tx": 80,
+      "tz": 64,
+      "rotY": 0
+    },
+    {
+      "asset": "van",
+      "vehicle": "van",
+      "tx": 80,
+      "tz": 72,
+      "rotY": 0
+    },
+    {
+      "asset": "sport",
+      "vehicle": "sport",
+      "tx": 80,
+      "tz": 94,
+      "rotY": 0
+    },
+    {
+      "asset": "pickup",
+      "vehicle": "pickup",
+      "tx": 80,
+      "tz": 101,
+      "rotY": 0
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 80,
+      "tz": 112,
+      "rotY": 0
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 80,
+      "tz": 143,
+      "rotY": 0
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 104,
+      "tz": 17,
+      "rotY": 0
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 104,
+      "tz": 41,
+      "rotY": 0
+    },
+    {
+      "asset": "muscle",
+      "vehicle": "muscle",
+      "tx": 104,
+      "tz": 56,
+      "rotY": 0
+    },
+    {
+      "asset": "van",
+      "vehicle": "van",
+      "tx": 104,
+      "tz": 66,
+      "rotY": 0
+    },
+    {
+      "asset": "sport",
+      "vehicle": "sport",
+      "tx": 104,
+      "tz": 104,
+      "rotY": 0
+    },
+    {
+      "asset": "pickup",
+      "vehicle": "pickup",
+      "tx": 104,
+      "tz": 113,
+      "rotY": 0
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 104,
+      "tz": 124,
+      "rotY": 0
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 104,
+      "tz": 131,
+      "rotY": 0
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 104,
+      "tz": 138,
+      "rotY": 0
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 104,
+      "tz": 147,
+      "rotY": 0
+    },
+    {
+      "asset": "muscle",
+      "vehicle": "muscle",
+      "tx": 130,
+      "tz": 6,
+      "rotY": 0
+    },
+    {
+      "asset": "van",
+      "vehicle": "van",
+      "tx": 130,
+      "tz": 27,
+      "rotY": 0
+    },
+    {
+      "asset": "sport",
+      "vehicle": "sport",
+      "tx": 130,
+      "tz": 36,
+      "rotY": 0
+    },
+    {
+      "asset": "pickup",
+      "vehicle": "pickup",
+      "tx": 130,
+      "tz": 46,
+      "rotY": 0
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 130,
+      "tz": 63,
+      "rotY": 0
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 130,
+      "tz": 70,
+      "rotY": 0
+    },
+    {
+      "asset": "sedan",
+      "vehicle": "sedan",
+      "tx": 130,
+      "tz": 104,
+      "rotY": 0
+    },
+    {
+      "asset": "taxi",
+      "vehicle": "taxi",
+      "tx": 130,
+      "tz": 119,
+      "rotY": 0
+    },
+    {
+      "asset": "muscle",
+      "vehicle": "muscle",
+      "tx": 130,
+      "tz": 143,
+      "rotY": 0
+    },
+    {
+      "asset": "van",
+      "vehicle": "van",
+      "tx": 130,
+      "tz": 150,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 1,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 83,
+      "tz": 7,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 89,
+      "tz": 7,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 83,
+      "tz": 10,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 86,
+      "tz": 10,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 83,
+      "tz": 13,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 86,
+      "tz": 13,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 89,
+      "tz": 13,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 83,
+      "tz": 16,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 86,
+      "tz": 16,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 89,
+      "tz": 16,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 133,
+      "tz": 7,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 133,
+      "tz": 10,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 136,
+      "tz": 10,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 133,
+      "tz": 13,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 136,
+      "tz": 13,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 136,
+      "tz": 16,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 23,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 26,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 29,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 23,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 23,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 26,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 26,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 26,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 29,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 29,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 29,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 23,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 23,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 23,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 23,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 26,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 26,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 26,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 26,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 29,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 29,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 29,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 29,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 73,
+      "tz": 23,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 73,
+      "tz": 26,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 76,
+      "tz": 26,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 73,
+      "tz": 29,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 76,
+      "tz": 29,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 83,
+      "tz": 23,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 86,
+      "tz": 23,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 83,
+      "tz": 26,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 83,
+      "tz": 29,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 86,
+      "tz": 29,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 89,
+      "tz": 29,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 133,
+      "tz": 23,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 136,
+      "tz": 23,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 136,
+      "tz": 26,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 136,
+      "tz": 29,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 35,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 35,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 38,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 38,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 38,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 41,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 41,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 41,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 44,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 44,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 51,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 51,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 51,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 54,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 54,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 54,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 57,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 57,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 57,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 64,
+      "tz": 51,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 67,
+      "tz": 51,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 61,
+      "tz": 54,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 64,
+      "tz": 54,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 61,
+      "tz": 57,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 64,
+      "tz": 57,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 67,
+      "tz": 57,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 119,
+      "tz": 51,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 125,
+      "tz": 51,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 128,
+      "tz": 51,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 119,
+      "tz": 54,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 125,
+      "tz": 54,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 128,
+      "tz": 54,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 122,
+      "tz": 57,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 125,
+      "tz": 57,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 128,
+      "tz": 57,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 63,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 66,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 69,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 72,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 63,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 63,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 16,
+      "tz": 63,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 66,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 66,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 66,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 16,
+      "tz": 66,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 69,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 69,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 69,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 16,
+      "tz": 69,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 72,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 72,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 72,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 16,
+      "tz": 72,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 63,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 63,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 63,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 66,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 66,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 69,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 69,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 69,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 72,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 63,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 63,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 63,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 63,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 66,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 66,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 66,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 66,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 69,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 69,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 72,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 72,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 72,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 72,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 95,
+      "tz": 63,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 98,
+      "tz": 63,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 101,
+      "tz": 63,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 98,
+      "tz": 66,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 101,
+      "tz": 66,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 98,
+      "tz": 69,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 101,
+      "tz": 69,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 95,
+      "tz": 72,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 101,
+      "tz": 72,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 133,
+      "tz": 63,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 133,
+      "tz": 66,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 133,
+      "tz": 69,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 133,
+      "tz": 72,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 136,
+      "tz": 72,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 79,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 79,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 79,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 79,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 82,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 82,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 82,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 82,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 51,
+      "tz": 89,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 54,
+      "tz": 92,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 99,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 99,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 99,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 102,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 102,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 102,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 35,
+      "tz": 105,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 41,
+      "tz": 105,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 105,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 38,
+      "tz": 108,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 44,
+      "tz": 108,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 51,
+      "tz": 113,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 54,
+      "tz": 113,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 51,
+      "tz": 116,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 54,
+      "tz": 116,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 51,
+      "tz": 119,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 73,
+      "tz": 113,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 76,
+      "tz": 113,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 76,
+      "tz": 116,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 73,
+      "tz": 119,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 95,
+      "tz": 113,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 98,
+      "tz": 113,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 101,
+      "tz": 113,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 95,
+      "tz": 116,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 98,
+      "tz": 116,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 101,
+      "tz": 116,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 95,
+      "tz": 119,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 1,
+      "tz": 128,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 125,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 125,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 128,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 128,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 51,
+      "tz": 125,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 54,
+      "tz": 125,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 51,
+      "tz": 128,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 54,
+      "tz": 128,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 135,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 135,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 135,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 138,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 138,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 16,
+      "tz": 138,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 141,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 141,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 141,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 144,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 144,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 144,
+      "rotY": 1
+    },
+    {
+      "asset": "tree",
+      "tx": 16,
+      "tz": 144,
+      "rotY": 4
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 151,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 151,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 154,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 154,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 16,
+      "tz": 154,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 7,
+      "tz": 157,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 10,
+      "tz": 157,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 13,
+      "tz": 157,
+      "rotY": 2
+    },
+    {
+      "asset": "tree",
+      "tx": 16,
+      "tz": 157,
+      "rotY": 5
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 151,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 151,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 151,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 154,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 154,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 23,
+      "tz": 157,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 26,
+      "tz": 157,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 29,
+      "tz": 157,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 98,
+      "tz": 151,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 101,
+      "tz": 151,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 95,
+      "tz": 154,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 98,
+      "tz": 154,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 95,
+      "tz": 157,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 98,
+      "tz": 157,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 101,
+      "tz": 157,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 110,
+      "tz": 151,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 113,
+      "tz": 151,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 110,
+      "tz": 154,
+      "rotY": 0
+    },
+    {
+      "asset": "tree",
+      "tx": 113,
+      "tz": 154,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 110,
+      "tz": 157,
+      "rotY": 3
+    },
+    {
+      "asset": "tree",
+      "tx": 113,
+      "tz": 157,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 26,
+      "tz": 1
+    },
+    {
+      "asset": "bench",
+      "tx": 23,
+      "tz": 1,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 29,
+      "tz": 1,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 26,
+      "tz": -2,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 26,
+      "tz": 4,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 98,
+      "tz": 1
+    },
+    {
+      "asset": "bench",
+      "tx": 95,
+      "tz": 1,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 101,
+      "tz": 1,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 98,
+      "tz": -2,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 98,
+      "tz": 4,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 110,
+      "tz": 1
+    },
+    {
+      "asset": "bench",
+      "tx": 107,
+      "tz": 1,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 113,
+      "tz": 1,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 110,
+      "tz": -2,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 110,
+      "tz": 4,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 40,
+      "tz": 12
+    },
+    {
+      "asset": "bench",
+      "tx": 37,
+      "tz": 12,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 43,
+      "tz": 12,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 40,
+      "tz": 9,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 40,
+      "tz": 15,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 64,
+      "tz": 26
+    },
+    {
+      "asset": "bench",
+      "tx": 61,
+      "tz": 26,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 67,
+      "tz": 26,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 64,
+      "tz": 23,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 64,
+      "tz": 29,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 123,
+      "tz": 26
+    },
+    {
+      "asset": "bench",
+      "tx": 120,
+      "tz": 26,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 126,
+      "tz": 26,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 123,
+      "tz": 23,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 123,
+      "tz": 29,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 64,
+      "tz": 40
+    },
+    {
+      "asset": "bench",
+      "tx": 61,
+      "tz": 40,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 67,
+      "tz": 40,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 64,
+      "tz": 37,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 64,
+      "tz": 43,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 135,
+      "tz": 40
+    },
+    {
+      "asset": "bench",
+      "tx": 132,
+      "tz": 40,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 138,
+      "tz": 40,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 135,
+      "tz": 37,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 135,
+      "tz": 43,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 75,
+      "tz": 54
+    },
+    {
+      "asset": "bench",
+      "tx": 72,
+      "tz": 54,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 78,
+      "tz": 54,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 75,
+      "tz": 51,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 75,
+      "tz": 57,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 64,
+      "tz": 68
+    },
+    {
+      "asset": "bench",
+      "tx": 61,
+      "tz": 68,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 67,
+      "tz": 68,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 64,
+      "tz": 65,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 64,
+      "tz": 71,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 26,
+      "tz": 81
+    },
+    {
+      "asset": "bench",
+      "tx": 23,
+      "tz": 81,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 29,
+      "tz": 81,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 26,
+      "tz": 78,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 26,
+      "tz": 84,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 123,
+      "tz": 81
+    },
+    {
+      "asset": "bench",
+      "tx": 120,
+      "tz": 81,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 126,
+      "tz": 81,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 123,
+      "tz": 78,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 123,
+      "tz": 84,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 135,
+      "tz": 103
+    },
+    {
+      "asset": "bench",
+      "tx": 132,
+      "tz": 103,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 138,
+      "tz": 103,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 135,
+      "tz": 100,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 135,
+      "tz": 106,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 86,
+      "tz": 127
+    },
+    {
+      "asset": "bench",
+      "tx": 83,
+      "tz": 127,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 89,
+      "tz": 127,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 86,
+      "tz": 124,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 86,
+      "tz": 130,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 135,
+      "tz": 127
+    },
+    {
+      "asset": "bench",
+      "tx": 132,
+      "tz": 127,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 138,
+      "tz": 127,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 135,
+      "tz": 124,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 135,
+      "tz": 130,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 40,
+      "tz": 140
+    },
+    {
+      "asset": "bench",
+      "tx": 37,
+      "tz": 140,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 43,
+      "tz": 140,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 40,
+      "tz": 137,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 40,
+      "tz": 143,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 135,
+      "tz": 154
+    },
+    {
+      "asset": "bench",
+      "tx": 132,
+      "tz": 154,
+      "rotY": 1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 138,
+      "tz": 154,
+      "rotY": -1.5707963267948966
+    },
+    {
+      "asset": "bench",
+      "tx": 135,
+      "tz": 151,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "bench",
+      "tx": 135,
+      "tz": 157,
+      "rotY": 0
+    },
+    {
+      "asset": "fountain",
+      "tx": 40,
+      "tz": 103
+    },
+    {
+      "asset": "lamp",
+      "tx": 3,
+      "tz": 3,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 6,
+      "tz": 6,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 3,
+      "tz": 31,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 6,
+      "tz": 34,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 3,
+      "tz": 59,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 6,
+      "tz": 62,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 3,
+      "tz": 85,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 6,
+      "tz": 88,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 3,
+      "tz": 109,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 6,
+      "tz": 112,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 3,
+      "tz": 131,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 6,
+      "tz": 134,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 19,
+      "tz": 19,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 22,
+      "tz": 22,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 19,
+      "tz": 47,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 22,
+      "tz": 50,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 19,
+      "tz": 75,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 22,
+      "tz": 78,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 19,
+      "tz": 95,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 22,
+      "tz": 98,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 19,
+      "tz": 121,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 22,
+      "tz": 124,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 19,
+      "tz": 147,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 22,
+      "tz": 150,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 31,
+      "tz": 3,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 34,
+      "tz": 6,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 31,
+      "tz": 31,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 34,
+      "tz": 34,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 31,
+      "tz": 59,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 34,
+      "tz": 62,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 31,
+      "tz": 85,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 34,
+      "tz": 88,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 31,
+      "tz": 109,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 34,
+      "tz": 112,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 31,
+      "tz": 131,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 34,
+      "tz": 134,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 47,
+      "tz": 19,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 50,
+      "tz": 22,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 47,
+      "tz": 47,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 50,
+      "tz": 50,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 47,
+      "tz": 75,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 50,
+      "tz": 78,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 47,
+      "tz": 95,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 50,
+      "tz": 98,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 47,
+      "tz": 121,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 50,
+      "tz": 124,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 47,
+      "tz": 147,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 50,
+      "tz": 150,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 57,
+      "tz": 3,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 60,
+      "tz": 6,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 57,
+      "tz": 31,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 60,
+      "tz": 34,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 57,
+      "tz": 59,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 60,
+      "tz": 62,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 57,
+      "tz": 85,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 60,
+      "tz": 88,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 57,
+      "tz": 109,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 60,
+      "tz": 112,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 57,
+      "tz": 131,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 60,
+      "tz": 134,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 69,
+      "tz": 19,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 72,
+      "tz": 22,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 69,
+      "tz": 47,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 72,
+      "tz": 50,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 69,
+      "tz": 75,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 72,
+      "tz": 78,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 69,
+      "tz": 95,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 72,
+      "tz": 98,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 69,
+      "tz": 121,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 72,
+      "tz": 124,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 69,
+      "tz": 147,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 72,
+      "tz": 150,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 79,
+      "tz": 3,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 82,
+      "tz": 6,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 79,
+      "tz": 31,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 82,
+      "tz": 34,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 79,
+      "tz": 59,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 82,
+      "tz": 62,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 79,
+      "tz": 85,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 82,
+      "tz": 88,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 79,
+      "tz": 109,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 82,
+      "tz": 112,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 79,
+      "tz": 131,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 82,
+      "tz": 134,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 91,
+      "tz": 19,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 94,
+      "tz": 22,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 91,
+      "tz": 47,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 94,
+      "tz": 50,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 91,
+      "tz": 75,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 94,
+      "tz": 78,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 91,
+      "tz": 95,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 94,
+      "tz": 98,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 91,
+      "tz": 121,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 94,
+      "tz": 124,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 91,
+      "tz": 147,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 94,
+      "tz": 150,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 103,
+      "tz": 3,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 106,
+      "tz": 6,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 103,
+      "tz": 31,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 106,
+      "tz": 34,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 103,
+      "tz": 59,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 106,
+      "tz": 62,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 103,
+      "tz": 85,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 106,
+      "tz": 88,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 103,
+      "tz": 109,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 106,
+      "tz": 112,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 103,
+      "tz": 131,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 106,
+      "tz": 134,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 115,
+      "tz": 19,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 118,
+      "tz": 22,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 115,
+      "tz": 47,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 118,
+      "tz": 50,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 115,
+      "tz": 75,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 118,
+      "tz": 78,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 115,
+      "tz": 95,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 118,
+      "tz": 98,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 115,
+      "tz": 121,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 118,
+      "tz": 124,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 115,
+      "tz": 147,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 118,
+      "tz": 150,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 129,
+      "tz": 3,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 132,
+      "tz": 6,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 129,
+      "tz": 31,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 132,
+      "tz": 34,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 129,
+      "tz": 59,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 132,
+      "tz": 62,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 129,
+      "tz": 85,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 132,
+      "tz": 88,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 129,
+      "tz": 109,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 132,
+      "tz": 112,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 129,
+      "tz": 131,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 132,
+      "tz": 134,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 139,
+      "tz": 19,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 142,
+      "tz": 22,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 139,
+      "tz": 47,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 142,
+      "tz": 50,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 139,
+      "tz": 75,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 142,
+      "tz": 78,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 139,
+      "tz": 95,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 142,
+      "tz": 98,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 139,
+      "tz": 121,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 142,
+      "tz": 124,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "lamp",
+      "tx": 139,
+      "tz": 147,
+      "rotY": 0.7853981633974483
+    },
+    {
+      "asset": "lamp",
+      "tx": 142,
+      "tz": 150,
+      "rotY": 3.9269908169872414
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 19,
+      "tz": 22,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 22,
+      "tz": 19,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 19,
+      "tz": 62,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 22,
+      "tz": 59,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 19,
+      "tz": 98,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 22,
+      "tz": 95,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 19,
+      "tz": 134,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 22,
+      "tz": 131,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 57,
+      "tz": 22,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 60,
+      "tz": 19,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 57,
+      "tz": 62,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 60,
+      "tz": 59,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 57,
+      "tz": 98,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 60,
+      "tz": 95,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 57,
+      "tz": 134,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 60,
+      "tz": 131,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 91,
+      "tz": 22,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 94,
+      "tz": 19,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 91,
+      "tz": 62,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 94,
+      "tz": 59,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 91,
+      "tz": 98,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 94,
+      "tz": 95,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 91,
+      "tz": 134,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 94,
+      "tz": 131,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 129,
+      "tz": 22,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 132,
+      "tz": 19,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 129,
+      "tz": 62,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 132,
+      "tz": 59,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 129,
+      "tz": 98,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 132,
+      "tz": 95,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 129,
+      "tz": 134,
+      "rotY": 0
+    },
+    {
+      "asset": "trafficlight",
+      "tx": 132,
+      "tz": 131,
+      "rotY": 3.141592653589793
+    },
+    {
+      "asset": "hydrant",
+      "tx": 6,
+      "tz": 12
+    },
+    {
+      "asset": "hydrant",
+      "tx": 60,
+      "tz": 12
+    },
+    {
+      "asset": "hydrant",
+      "tx": 118,
+      "tz": 12
+    },
+    {
+      "asset": "hydrant",
+      "tx": 50,
+      "tz": 26
+    },
+    {
+      "asset": "hydrant",
+      "tx": 106,
+      "tz": 26
+    },
+    {
+      "asset": "hydrant",
+      "tx": 72,
+      "tz": 40
+    },
+    {
+      "asset": "hydrant",
+      "tx": 82,
+      "tz": 40
+    },
+    {
+      "asset": "hydrant",
+      "tx": 106,
+      "tz": 40
+    },
+    {
+      "asset": "hydrant",
+      "tx": 6,
+      "tz": 54
+    },
+    {
+      "asset": "hydrant",
+      "tx": 50,
+      "tz": 54
+    },
+    {
+      "asset": "hydrant",
+      "tx": 82,
+      "tz": 54
+    },
+    {
+      "asset": "hydrant",
+      "tx": 94,
+      "tz": 54
+    },
+    {
+      "asset": "hydrant",
+      "tx": 106,
+      "tz": 54
+    },
+    {
+      "asset": "hydrant",
+      "tx": 72,
+      "tz": 81
+    },
+    {
+      "asset": "hydrant",
+      "tx": 106,
+      "tz": 81
+    },
+    {
+      "asset": "hydrant",
+      "tx": 6,
+      "tz": 91
+    },
+    {
+      "asset": "hydrant",
+      "tx": 118,
+      "tz": 91
+    },
+    {
+      "asset": "hydrant",
+      "tx": 6,
+      "tz": 103
+    },
+    {
+      "asset": "hydrant",
+      "tx": 22,
+      "tz": 103
+    },
+    {
+      "asset": "hydrant",
+      "tx": 50,
+      "tz": 103
+    },
+    {
+      "asset": "hydrant",
+      "tx": 72,
+      "tz": 103
+    },
+    {
+      "asset": "hydrant",
+      "tx": 82,
+      "tz": 103
+    },
+    {
+      "asset": "hydrant",
+      "tx": 6,
+      "tz": 116
+    },
+    {
+      "asset": "hydrant",
+      "tx": 34,
+      "tz": 116
+    },
+    {
+      "asset": "hydrant",
+      "tx": 82,
+      "tz": 116
+    },
+    {
+      "asset": "hydrant",
+      "tx": 118,
+      "tz": 116
+    },
+    {
+      "asset": "hydrant",
+      "tx": 142,
+      "tz": 116
+    },
+    {
+      "asset": "hydrant",
+      "tx": 6,
+      "tz": 127
+    },
+    {
+      "asset": "hydrant",
+      "tx": 118,
+      "tz": 140
+    },
+    {
+      "asset": "hydrant",
+      "tx": 132,
+      "tz": 140
+    },
+    {
+      "asset": "hydrant",
+      "tx": 0,
+      "tz": 154
+    },
+    {
+      "asset": "hydrant",
+      "tx": 110,
+      "tz": 0
+    },
+    {
+      "asset": "hydrant",
+      "tx": 26,
+      "tz": 6
+    },
+    {
+      "asset": "hydrant",
+      "tx": 53,
+      "tz": 6
+    },
+    {
+      "asset": "hydrant",
+      "tx": 86,
+      "tz": 6
+    },
+    {
+      "asset": "hydrant",
+      "tx": 110,
+      "tz": 6
+    },
+    {
+      "asset": "hydrant",
+      "tx": 135,
+      "tz": 6
+    },
+    {
+      "asset": "hydrant",
+      "tx": 26,
+      "tz": 22
+    },
+    {
+      "asset": "hydrant",
+      "tx": 86,
+      "tz": 22
+    },
+    {
+      "asset": "hydrant",
+      "tx": 12,
+      "tz": 34
+    },
+    {
+      "asset": "hydrant",
+      "tx": 75,
+      "tz": 50
+    },
+    {
+      "asset": "hydrant",
+      "tx": 1,
+      "tz": 62
+    },
+    {
+      "asset": "hydrant",
+      "tx": 40,
+      "tz": 62
+    },
+    {
+      "asset": "hydrant",
+      "tx": 75,
+      "tz": 62
+    },
+    {
+      "asset": "hydrant",
+      "tx": 110,
+      "tz": 62
+    },
+    {
+      "asset": "hydrant",
+      "tx": 123,
+      "tz": 62
+    },
+    {
+      "asset": "hydrant",
+      "tx": 135,
+      "tz": 62
+    },
+    {
+      "asset": "hydrant",
+      "tx": 150,
+      "tz": 62
+    },
+    {
+      "asset": "hydrant",
+      "tx": 123,
+      "tz": 78
+    },
+    {
+      "asset": "hydrant",
+      "tx": 64,
+      "tz": 98
+    },
+    {
+      "asset": "hydrant",
+      "tx": 98,
+      "tz": 98
+    },
+    {
+      "asset": "hydrant",
+      "tx": 1,
+      "tz": 112
+    },
+    {
+      "asset": "hydrant",
+      "tx": 98,
+      "tz": 124
+    },
+    {
+      "asset": "hydrant",
+      "tx": 123,
+      "tz": 124
+    },
+    {
+      "asset": "hydrant",
+      "tx": 1,
+      "tz": 134
+    },
+    {
+      "asset": "hydrant",
+      "tx": 26,
+      "tz": 150
+    },
+    {
+      "asset": "hydrant",
+      "tx": 64,
+      "tz": 150
+    },
+    {
+      "asset": "hydrant",
+      "tx": 135,
+      "tz": 150
+    },
+    {
+      "asset": "barrel",
+      "tx": 29,
+      "tz": 4
+    },
+    {
+      "asset": "barrel",
+      "tx": 30,
+      "tz": 4
+    },
+    {
+      "asset": "barrel",
+      "tx": 101,
+      "tz": 4
+    },
+    {
+      "asset": "barrel",
+      "tx": 102,
+      "tz": 4
+    },
+    {
+      "asset": "barrel",
+      "tx": 113,
+      "tz": 4
+    },
+    {
+      "asset": "barrel",
+      "tx": 114,
+      "tz": 4
+    },
+    {
+      "asset": "barrel",
+      "tx": 43,
+      "tz": 15
+    },
+    {
+      "asset": "barrel",
+      "tx": 44,
+      "tz": 15
+    },
+    {
+      "asset": "barrel",
+      "tx": 67,
+      "tz": 29
+    },
+    {
+      "asset": "barrel",
+      "tx": 68,
+      "tz": 29
+    },
+    {
+      "asset": "barrel",
+      "tx": 126,
+      "tz": 29
+    },
+    {
+      "asset": "barrel",
+      "tx": 127,
+      "tz": 29
+    },
+    {
+      "asset": "barrel",
+      "tx": 67,
+      "tz": 43
+    },
+    {
+      "asset": "barrel",
+      "tx": 68,
+      "tz": 43
+    },
+    {
+      "asset": "barrel",
+      "tx": 138,
+      "tz": 43
+    },
+    {
+      "asset": "barrel",
+      "tx": 139,
+      "tz": 43
+    },
+    {
+      "asset": "barrel",
+      "tx": 78,
+      "tz": 57
+    },
+    {
+      "asset": "barrel",
+      "tx": 79,
+      "tz": 57
+    },
+    {
+      "asset": "barrel",
+      "tx": 67,
+      "tz": 71
+    },
+    {
+      "asset": "barrel",
+      "tx": 68,
+      "tz": 71
+    },
+    {
+      "asset": "barrel",
+      "tx": 29,
+      "tz": 84
+    },
+    {
+      "asset": "barrel",
+      "tx": 30,
+      "tz": 84
+    },
+    {
+      "asset": "barrel",
+      "tx": 126,
+      "tz": 84
+    },
+    {
+      "asset": "barrel",
+      "tx": 127,
+      "tz": 84
+    },
+    {
+      "asset": "barrel",
+      "tx": 138,
+      "tz": 106
+    },
+    {
+      "asset": "barrel",
+      "tx": 139,
+      "tz": 106
+    },
+    {
+      "asset": "barrel",
+      "tx": 89,
+      "tz": 130
+    },
+    {
+      "asset": "barrel",
+      "tx": 90,
+      "tz": 130
+    },
+    {
+      "asset": "barrel",
+      "tx": 138,
+      "tz": 130
+    },
+    {
+      "asset": "barrel",
+      "tx": 139,
+      "tz": 130
+    },
+    {
+      "asset": "barrel",
+      "tx": 43,
+      "tz": 143
+    },
+    {
+      "asset": "barrel",
+      "tx": 44,
+      "tz": 143
+    },
+    {
+      "asset": "barrel",
+      "tx": 138,
+      "tz": 157
+    },
+    {
+      "asset": "barrel",
+      "tx": 139,
+      "tz": 157
+    },
+    {
+      "asset": "barrel",
+      "tx": 5,
+      "tz": 53
+    },
+    {
+      "asset": "barrel",
+      "tx": 59,
+      "tz": 153
+    },
+    {
+      "asset": "barrel",
+      "tx": 33,
+      "tz": 127
+    },
+    {
+      "asset": "barrel",
+      "tx": 49,
+      "tz": 51
+    },
+    {
+      "asset": "barrel",
+      "tx": 93,
+      "tz": 51
+    },
+    {
+      "asset": "barrel",
+      "tx": 71,
+      "tz": 36
+    },
+    {
+      "asset": "barrel",
+      "tx": 71,
+      "tz": 126
+    },
+    {
+      "asset": "barrel",
+      "tx": 5,
+      "tz": 115
+    },
+    {
+      "asset": "barrel",
+      "tx": 21,
+      "tz": 7
+    },
+    {
+      "asset": "barrel",
+      "tx": 71,
+      "tz": 136
+    }
+  ],
+  "pickups": [
+    {
+      "type": "uzi",
+      "tx": 27,
+      "tz": 2
+    },
+    {
+      "type": "shotgun",
+      "tx": 99,
+      "tz": 2
+    },
+    {
+      "type": "uzi",
+      "tx": 111,
+      "tz": 2
+    },
+    {
+      "type": "shotgun",
+      "tx": 41,
+      "tz": 13
+    },
+    {
+      "type": "uzi",
+      "tx": 65,
+      "tz": 27
+    },
+    {
+      "type": "shotgun",
+      "tx": 124,
+      "tz": 27
+    },
+    {
+      "type": "uzi",
+      "tx": 65,
+      "tz": 41
+    },
+    {
+      "type": "shotgun",
+      "tx": 136,
+      "tz": 41
+    },
+    {
+      "type": "uzi",
+      "tx": 76,
+      "tz": 55
+    },
+    {
+      "type": "shotgun",
+      "tx": 65,
+      "tz": 69
+    },
+    {
+      "type": "uzi",
+      "tx": 27,
+      "tz": 82
+    },
+    {
+      "type": "shotgun",
+      "tx": 124,
+      "tz": 82
+    },
+    {
+      "type": "uzi",
+      "tx": 136,
+      "tz": 104
+    },
+    {
+      "type": "shotgun",
+      "tx": 87,
+      "tz": 128
+    },
+    {
+      "type": "uzi",
+      "tx": 136,
+      "tz": 128
+    },
+    {
+      "type": "shotgun",
+      "tx": 41,
+      "tz": 141
+    },
+    {
+      "type": "uzi",
+      "tx": 136,
+      "tz": 155
+    },
+    {
+      "type": "health",
+      "tx": 1,
+      "tz": 3
+    },
+    {
+      "type": "health",
+      "tx": 135,
+      "tz": 14
+    },
+    {
+      "type": "health",
+      "tx": 26,
+      "tz": 28
+    },
+    {
+      "type": "health",
+      "tx": 75,
+      "tz": 28
+    },
+    {
+      "type": "health",
+      "tx": 135,
+      "tz": 28
+    },
+    {
+      "type": "health",
+      "tx": 40,
+      "tz": 56
+    },
+    {
+      "type": "health",
+      "tx": 123,
+      "tz": 56
+    },
+    {
+      "type": "health",
+      "tx": 12,
+      "tz": 70
+    },
+    {
+      "type": "health",
+      "tx": 40,
+      "tz": 70
+    },
+    {
+      "type": "health",
+      "tx": 135,
+      "tz": 70
+    },
+    {
+      "type": "health",
+      "tx": 53,
+      "tz": 93
+    },
+    {
+      "type": "health",
+      "tx": 53,
+      "tz": 118
+    },
+    {
+      "type": "health",
+      "tx": 98,
+      "tz": 118
+    },
+    {
+      "type": "health",
+      "tx": 26,
+      "tz": 129
+    },
+    {
+      "type": "health",
+      "tx": 12,
+      "tz": 142
+    },
+    {
+      "type": "health",
+      "tx": 26,
+      "tz": 156
+    },
+    {
+      "type": "health",
+      "tx": 110,
+      "tz": 156
+    },
+    {
+      "type": "uzi",
+      "tx": 6,
+      "tz": 80
+    },
+    {
+      "type": "shotgun",
+      "tx": 154,
+      "tz": 80
+    },
+    {
+      "type": "health",
+      "tx": 80,
+      "tz": 6
+    },
+    {
+      "type": "health",
+      "tx": 80,
+      "tz": 154
+    }
+  ]
+}

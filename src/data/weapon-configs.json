@@ -1,0 +1,41 @@
+{
+  "pistol": {
+    "id": "pistol",
+    "name": "Pistol",
+    "damage": 34,
+    "cooldown": 0.28,
+    "bulletSpeed": 36,
+    "bulletLife": 0.9,
+    "pellets": 1,
+    "spread": 0.015,
+    "auto": false,
+    "infinite": true,
+    "pickupAmmo": 0
+  },
+  "uzi": {
+    "id": "uzi",
+    "name": "Uzi",
+    "damage": 14,
+    "cooldown": 0.085,
+    "bulletSpeed": 38,
+    "bulletLife": 0.8,
+    "pellets": 1,
+    "spread": 0.07,
+    "auto": true,
+    "infinite": false,
+    "pickupAmmo": 80
+  },
+  "shotgun": {
+    "id": "shotgun",
+    "name": "Shotgun",
+    "damage": 15,
+    "cooldown": 0.75,
+    "bulletSpeed": 32,
+    "bulletLife": 0.45,
+    "pellets": 6,
+    "spread": 0.22,
+    "auto": false,
+    "infinite": false,
+    "pickupAmmo": 14
+  }
+}
