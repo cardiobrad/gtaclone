@@ -2,15 +2,15 @@
 
 Top-down 3D sandbox in the browser, inspired by GTA 2. Built from scratch to be **highly customizable**: swappable 3D assets with per-asset transform editing, custom PNG map textures, live vehicle handling tweaks, and Tiled map import. Everything is data-driven.
 
-**[Live demo](#)** — soon.
+**[Live demo](https://cardiobrad.github.io/gtaclone/)** — GitHub Pages (after the one-time Pages setup in [docs/DEPLOY.md](./docs/DEPLOY.md)).
 
 ## Quick start
 
 ```bash
 npm install
-npm run dev           # http://localhost:5173
-npm run build         # production build → dist/
-npm run preview       # serve dist/ locally
+npm run dev           # http://localhost:5173/gtaclone/
+npm run build         # production build → dist/ (assets under /gtaclone/)
+npm run preview       # http://localhost:4173/gtaclone/
 npm run generate:map  # regenerate default-map.json + initial-placements.json
 ```
 
@@ -33,7 +33,7 @@ The city (**160×160 tiles**, procedural blocks and districts) is alive: pedestr
 - **9 vehicle types** with distinct handling (see `vehicle-configs.json`)
 - **Weapons**: pistol (infinite), Uzi and shotgun from pickups; medkits restore health
 - **Wanted system**: heat from *your* crimes only → up to 6 stars; foot cops, patrol cars, paint shops ($50) to clear heat
-- **Gangs** (Zaibatsu / Loonies) with territory respect and hostile AI
+- **Gangs** (Kestrel / Rookery) with territory respect and hostile AI
 - **Medics** dispatch ambulances to revive downed pedestrians
 - **Police deploy** from patrol cars at higher wanted levels
 - Knockable props (hydrants spray water), carjacking ejections, procedural walk/run animation, synthesized Web Audio
@@ -115,7 +115,11 @@ See [SECURITY.md](./SECURITY.md). No backend, no API keys in repo, no telemetry.
 
 ## Deploy
 
-See [docs/DEPLOY.md](./docs/DEPLOY.md) for GitHub + Netlify steps.
+See [docs/DEPLOY.md](./docs/DEPLOY.md). The zero-install build is GitHub Pages at `https://cardiobrad.github.io/gtaclone/`.
+
+## Credits
+
+Fork of [wiskonsin/gtaclone](https://github.com/wiskonsin/gtaclone) by [wiskonsin](https://github.com/wiskonsin). The original project is MIT licensed; this fork keeps that license.
 
 ## License
 
