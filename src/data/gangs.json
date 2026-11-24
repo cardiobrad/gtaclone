@@ -1,13 +1,13 @@
 [
   {
-    "id": "zaibatsu",
-    "name": "Zaibatsu",
+    "id": "kestrel",
+    "name": "Kestrel",
     "color": "#b14ce8",
     "territory": { "x0": 8, "z0": 8, "x1": 64, "z1": 64 }
   },
   {
-    "id": "loonies",
-    "name": "Loonies",
+    "id": "rookery",
+    "name": "Rookery",
     "color": "#4ce86f",
     "territory": { "x0": 96, "z0": 96, "x1": 152, "z1": 152 }
   }

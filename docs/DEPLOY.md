@@ -1,5 +1,23 @@
 # Deploy guide
 
+## GitHub Pages (zero install)
+
+Production builds use Vite `base: '/gtaclone/'` so the site loads at
+[https://cardiobrad.github.io/gtaclone/](https://cardiobrad.github.io/gtaclone/).
+Map, gang, and asset data are bundled by Vite, so they share that prefix.
+Root hosts (Netlify) set `VITE_BASE=/` at build time.
+
+Pushing to `main` runs `.github/workflows/pages.yml`, which builds with
+`npm ci && npm run build` and deploys `dist/` using
+`actions/upload-pages-artifact` and `actions/deploy-pages`.
+
+**One-time setup** (repo admin, after the workflow is on `main`):
+
+1. Open **Settings → Pages**.
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+
+Until that source is selected, the workflow can succeed and still not publish.
+
 ## GitHub (public reference repo)
 
 This project must live in its **own** git repository (not inside a parent folder that tracks other projects).
@@ -42,5 +60,5 @@ netlify deploy --prod --dir=dist
 ```bash
 npm install
 npm run build
-npm run preview   # http://localhost:4173
+npm run preview   # http://localhost:4173/gtaclone/
 ```

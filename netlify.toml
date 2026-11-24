@@ -9,3 +9,5 @@
 
 [build.environment]
   NODE_VERSION = "22"
+  # Vite defaults to the GitHub Pages subpath. This site is served at the domain root.
+  VITE_BASE = "/"
